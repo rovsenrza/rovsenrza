@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rovshan Rzayev
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning Front End Developing
 - 💞️ I want to go abroad with family
 - 📫 How to reach me:
 @rovsen.rzayev.2009@gmail.com
