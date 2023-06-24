@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rovshan Rzayev
 - 👀 I'm Front End Developer
-- 🌱 I’m currently React.js
+- 🌱 I’m currently learning React.js
 - 💞️ I want to go abroad with family
 - 📫 How to reach me:
 @rovsen.rzayev.2009@gmail.com
