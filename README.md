@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I want to go abroad with family
 - 📫 How to reach me:
-@rovsen.rzayev.2009@gmail.com
+- rovshan@div.edu.az
 
 <!---
 rovsenrza/rovsenrza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
