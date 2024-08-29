@@ -1,4 +1,4 @@
-<img width=100% src=https://github.com/ehmedP/ehmedP/assets/129995403/a7c881e3-39f1-424c-88ab-5d7ae2246089 />
+<img width=100% src=https://github.com/rovsenrza/rovsenrza/assets/github-header-image.png />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=If+I+cannot+do+great+things%2C;+I+can+do+small+things+in+a+great+way.)](https://git.io/typing-svg)
 
