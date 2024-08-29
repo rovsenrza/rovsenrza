@@ -6,9 +6,9 @@ hi, i'm Rovshan Rzayev, a passionate self-taught front-end web developer from Az
 
 <img align="right" alt="GIF" src="https://github.com/ehmedP/ehmedP/blob/main/icons/code.gif" width="480" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:ehmedliehmed0105@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:rovshan@div.edu.az) :)
 - 💬 Ask me about web, i am happy to help;
-- ✍ You can find my resume [here](https://github.com/ehmedP/ehmedP/files/12905381/myCV.pdf)
+- ✍ You can find my resume [here]([https://github.com/ehmedP/ehmedP/files/12905381/myCV.pdf](https://github.com/rovsenrza/rovsenrza/blob/main/assets/RovshanRzayevResume.pdf)
 
 
 ## Languages and Tools: 
