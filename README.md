@@ -66,7 +66,9 @@ I build clean, scalable, and user-focused applications — from native iOS apps 
 ## 🤝 Let’s Connect
 
 - 💼 GitHub: [github.com/rovsenrza](https://github.com/rovsenrza)
+- 🔗 LinkedIn: [linkedin.com/in/rovshanrzayev](https://www.linkedin.com/in/rovshanrzayev/)
 - 📫 Open to collaboration and new opportunities
+
 
 ---
 
