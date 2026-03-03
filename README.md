@@ -30,6 +30,7 @@ I build clean, scalable, and user-focused applications — from native iOS apps 
 - HTML5
 - CSS3 / Tailwind CSS
 - JavaScript (ES6+)
+- React.js
 - Responsive Design
 - Basic SEO & Performance Optimization
 
@@ -41,15 +42,6 @@ I build clean, scalable, and user-focused applications — from native iOS apps 
 - 🔹 UI/UX focused mobile interfaces
 - 🔹 Fast, responsive frontend layouts
 - 🔹 Reusable components & utilities
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rovsenrza&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovsenrza&layout=compact&theme=tokyonight" height="165">
-</p>
 
 ---
 
